@@ -122,7 +122,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AboutController.cs" />
     <Compile Include="Controllers\AdmissionsController.cs" />
-<<<<<<< HEAD
+
     <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\CoursesController.cs" />
     <Compile Include="Controllers\CourseSingleController.cs" />
@@ -130,9 +130,9 @@
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\NewsSingleController.cs" />
     <Compile Include="Controllers\RegisterController.cs" />
-=======
+
     <Compile Include="Controllers\HomeController.cs" />
->>>>>>> 5086d4dfceec4e02af66bf27c897567cdf1bbbc0
+
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -354,15 +354,14 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\About\Index.cshtml" />
     <Content Include="Views\Admissions\Index.cshtml" />
-<<<<<<< HEAD
+
     <Content Include="Views\Contact\Index.cshtml" />
     <Content Include="Views\Courses\Index.cshtml" />
     <Content Include="Views\CourseSingle\Index.cshtml" />
     <Content Include="Views\Login\Index.cshtml" />
     <Content Include="Views\NewsSingle\Index.cshtml" />
     <Content Include="Views\Register\Index.cshtml" />
-=======
->>>>>>> 5086d4dfceec4e02af66bf27c897567cdf1bbbc0
+
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
